@@ -1,0 +1,32 @@
+<root>
+    <intervals>
+        <interval>
+            <low> 200 </low>
+            <high> 167 </high>
+        </interval>
+        <interval>
+            <low> 34 </low>
+            <high> 55 </high>
+        </interval>
+        <interval>
+            <low> 789 </low>
+            <high> 123 </high>
+        </interval>
+        <interval>
+            <low> 238 </low>
+            <high> 90 </high>
+        </interval>
+        <interval>
+            <low> 4 </low>
+            <high> 46 </high>
+        </interval>
+        <interval>
+            <low> 467 </low>
+            <high> -490 </high>
+        </interval>
+        <interval>
+            <low> 0 </low>
+            <high> 0 </high>
+        </interval>
+    </intervals>
+</root>

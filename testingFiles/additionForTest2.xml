@@ -1,0 +1,32 @@
+<root>
+    <intervals>
+        <interval>
+            <low> 1242 </low>
+            <high> 2346 </high>
+        </interval>
+        <interval>
+            <low> 12321 </low>
+            <high> 34579 </high>
+        </interval>
+        <interval>
+            <low> 22347 </low>
+            <high> 82634 </high>
+        </interval>
+        <interval>
+            <low> 75097 </low>
+            <high> 123147 </high>
+        </interval>
+        <interval>
+            <low> 23423 </low>
+            <high> 84357 </high>
+        </interval>
+        <interval>
+            <low> 234234 </low>
+            <high> 234987 </high>
+        </interval>
+        <interval>
+            <low> 56756 </low>
+            <high> 65699 </high>
+        </interval>
+    </intervals>
+</root>
